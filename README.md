@@ -1,3 +1,3 @@
 # co2Clock
 Software for the CO2 clock project
-The readme will be extended in teh very near future.
+See the project page on the Arduino hub for details.
